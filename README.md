@@ -3,7 +3,7 @@
 _Title: Numerical Method and Computing_  
 _School: Cal Poly Pomona_  
 _Professor: Edwin Rodríguez_  
-_Semester: Fall 2023_
+_Semester: Spring 2023_
 
 ## Assignment Descriptions
 
